@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Unreg by Subs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70bb30ac-5cde-4c90-945c-a8d7dcbe201c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4ae1490f-20c2-4592-908c-fc0a88a11bfe</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>[]</defaultValue>
+      <description></description>
+      <id>4ae1490f-20c2-4592-908c-fc0a88a11bfe</id>
+      <masked>false</masked>
+      <name>listData</name>
+   </variable>
+</TestCaseEntity>

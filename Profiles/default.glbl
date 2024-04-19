@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://10.24.154.69:8080/sqctools/login'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'sukrysman1'</initValue>
+      <name>userAdmin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'jqBX1wCK13lAM0dsVuJmlw=='</initValue>
+      <name>passAdmin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'6287773588274'</initValue>
+      <name>MSISDN_testing</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PROCON/Procon SNTY216').getValue(1, 1)</initValue>
+      <name>expectedSID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PROCON/Procon SNTY216').getValue(2, 1)</initValue>
+      <name>expectedPackageName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PROCON/Procon SNTY216').getValue(3, 1)</initValue>
+      <name>expectedValidity</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PROCON/Procon SNTY216').getValue(4, 1)</initValue>
+      <name>expectedPrice</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PROCON/Procon SNTY216').getValue(5, 1)</initValue>
+      <name>expectedSingleDBName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PROCON/Procon SNTY216').getValue(6, 1)</initValue>
+      <name>expectedNotifPurchase</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PROCON/Procon SNTY216').getValue(7, 1)</initValue>
+      <name>expectedInfoPackage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PROCON/Procon SNTY216').getValue(8, 1)</initValue>
+      <name>expectedInfoQuota</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>0</initValue>
+      <name>intBalance</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>0</initValue>
+      <name>BalanceAfter</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

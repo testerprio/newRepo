@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Replace Date in the Statement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a35d947-81d1-46af-89b4-8880db678cc9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d8c22e77-8ef4-4559-9817-566439261636</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>72211fa6-c4b4-4493-b703-20bdd340a034</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>84b3a862-26a3-47c9-9879-a0856eb221c3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('PROCON/XCFeSIM').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>d8c22e77-8ef4-4559-9817-566439261636</id>
+      <masked>false</masked>
+      <name>validityFromProcon</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>72211fa6-c4b4-4493-b703-20bdd340a034</id>
+      <masked>false</masked>
+      <name>intVal</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>84b3a862-26a3-47c9-9879-a0856eb221c3</id>
+      <masked>false</masked>
+      <name>newStatement</name>
+   </variable>
+</TestCaseEntity>

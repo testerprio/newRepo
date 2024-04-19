@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Check Balance</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>128cc082-b107-421b-8144-e5d86f833fd3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>528467a9-5d94-418b-a07b-fda58921a715</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9329efb1-acaa-43ba-88b2-71716a733b39</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e5f9ec83-2571-4a2f-8c6f-64282001cd06</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>528467a9-5d94-418b-a07b-fda58921a715</id>
+      <masked>false</masked>
+      <name>stringBalance</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>9329efb1-acaa-43ba-88b2-71716a733b39</id>
+      <masked>false</masked>
+      <name>intBalance</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e5f9ec83-2571-4a2f-8c6f-64282001cd06</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
